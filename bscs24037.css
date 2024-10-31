@@ -1,0 +1,19 @@
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+.normal-para {
+    color: blue; /* Style for paragraphs with the class normal-para */
+}
+
+#fav-para {
+    color: red; /* Style for the paragraph with the ID fav-para */
+}
+
